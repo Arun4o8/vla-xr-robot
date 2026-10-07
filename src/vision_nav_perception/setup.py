@@ -21,6 +21,7 @@ setup(
         'console_scripts': [
             'detector_node = vision_nav_perception.detector_node:main',
             'target_localizer = vision_nav_perception.target_localizer:main',
+            'mission_manager = vision_nav_perception.mission_manager:main',
         ],
     },
 )
