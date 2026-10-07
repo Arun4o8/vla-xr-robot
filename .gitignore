@@ -8,3 +8,5 @@ src/*/*.egg-info/
 yolo_env/
 runs/
 *.jpg
+*.pt
+weights/
