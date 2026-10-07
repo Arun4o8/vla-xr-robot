@@ -3,3 +3,8 @@ install/
 log/
 *.pyc
 __pycache__/
+src/*/build/
+src/*/*.egg-info/
+yolo_env/
+runs/
+*.jpg
